@@ -9,25 +9,25 @@
     <tag k='school:type' v='public' />
     <tag k='source' v='Giga school dataset 2025' />
   </node>
-  <node id='-46288' action='modify' visible='true' lat='44.80551803317' lon='17.2100638859' />
-  <node id='-46289' action='modify' visible='true' lat='44.80474385104' lon='17.20972756627' />
-  <node id='-46290' action='modify' visible='true' lat='44.80470823062' lon='17.20972733499' />
-  <node id='-46291' action='modify' visible='true' lat='44.80468517352' lon='17.20975068466' />
-  <node id='-46292' action='modify' visible='true' lat='44.80419684784' lon='17.21136942024' />
-  <node id='-46293' action='modify' visible='true' lat='44.80421283694' lon='17.21140497361'>
+  <node id='-46288' action='modify' visible='true' lat='44.80551869849' lon='17.21006190437' />
+  <node id='-46289' action='modify' visible='true' lat='44.80474158372' lon='17.20972421351' />
+  <node id='-46290' action='modify' visible='true' lat='44.80471013368' lon='17.20972456896' />
+  <node id='-46291' action='modify' visible='true' lat='44.8046835994' lon='17.20975640007' />
+  <node id='-46292' action='modify' visible='true' lat='44.80419980003' lon='17.21136869992' />
+  <node id='-46293' action='modify' visible='true' lat='44.80421309991' lon='17.21139089987'>
     <tag k='crossing' v='uncontrolled' />
     <tag k='crossing:island' v='no' />
     <tag k='crossing:markings' v='zebra' />
     <tag k='highway' v='crossing' />
   </node>
-  <node id='-46294' action='modify' visible='true' lat='44.80538749088' lon='17.21199596931'>
+  <node id='-46294' action='modify' visible='true' lat='44.8053851' lon='17.21199239914'>
     <tag k='crossing' v='uncontrolled' />
     <tag k='crossing:island' v='no' />
     <tag k='crossing:markings' v='yes' />
     <tag k='highway' v='crossing' />
     <tag k='kerb' v='lowered' />
   </node>
-  <node id='-46295' action='modify' visible='true' lat='44.80541547244' lon='17.21198161409' />
+  <node id='-46295' action='modify' visible='true' lat='44.80541410463' lon='17.21198044062' />
   <node id='-46296' action='modify' visible='true' lat='45.062145' lon='18.0027616' />
   <node id='-46297' action='modify' visible='true' lat='45.0623193' lon='18.0044567' />
   <node id='-46298' action='modify' visible='true' lat='45.0623188' lon='18.0045054' />
